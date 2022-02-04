@@ -24,6 +24,7 @@ Mdbook theme for ones who love One Monokai so much!
   [output.html]
   theme = "onokai"
   default-theme = "onokai"
+  preferred-dark-theme = "onokai"
   ```
 
 - Enjoy!
